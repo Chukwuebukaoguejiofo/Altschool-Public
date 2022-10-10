@@ -71,7 +71,7 @@
 #
  ## BROADCAST ADDRESS = 193.168.20.39	
 #
-    IST HOST ADDRESS (ADD ONE TO NETWORK) LAST OCTET		                                                                                 193.168.20.33
+    IST HOST ADDRESS (ADD ONE TO NETWORK) LAST OCTET		                                                                               193.168.20.33
 
     LAST HOST ADDRESS (SUBTRACT ONE FROM FRIOM BROADCAST ADDRESS)		                                                                    193.168.20.38
 
